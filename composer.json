@@ -75,6 +75,9 @@
 		"abuseio/collector-rbl": "2.1.*",
 		"abuseio/collector-snds": "2.1.*",
 
+		"abuseio/findcontact-nipap": "*",
+		"abuseio/findcontact-ripe": "^1.0",
+
 		"abuseio/notification-common": "2.1.*",
 		"abuseio/notification-mail": "2.1.*",
 
